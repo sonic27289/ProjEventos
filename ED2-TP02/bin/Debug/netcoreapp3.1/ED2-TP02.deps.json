@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ED2-TP02/1.0.0": {
+        "runtime": {
+          "ED2-TP02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ED2-TP02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
